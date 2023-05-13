@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on web projects!
 - 💬 Ask me about anything related to tech
 - 📫 How to reach me: alnasiriyusuf@gmail.com
-
-#### **Check out my latest projects on pinned repositories**
+---
+### **Check out my latest projects on pinned repositories**
