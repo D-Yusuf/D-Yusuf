@@ -1,8 +1,7 @@
 ### Helloooo 👋
 # I'm Yusuf Alnasiri 😁
-- 🔭 I’m currently working on making cool websites
-- 🌱 I’m currently React && JS. In a fullstack bootcamp @Coded ✌️.
-- 💬 Ask me about anything related to tech
+- 🔭 I’m currently working on making full-stack applications 📱💻.
+- 🌱 I’m currently in a fullstack bootcamp @Coded ✌️.
 - 📫 How to reach me: alnasiriyusuf@gmail.com
 ---
 ### **Check out my latest || best projects on pinned repositories**
