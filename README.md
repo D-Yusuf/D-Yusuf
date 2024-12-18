@@ -7,8 +7,8 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Computer Engineering at the Kuwait University.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cloud Computing, and Cybersecurity.\
+🎓 &nbsp;I'm currently studying Industrial and Management Systems Engineering at the Kuwait University.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cloud Computing, and Cybersecurity.
 
 
 
